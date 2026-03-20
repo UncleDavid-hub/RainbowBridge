@@ -6,3 +6,4 @@ Tighten your seatbelts - prepare to launch into a realm of entirely new possibil
 
 <img width="1200" height="896" alt="portal-hands" src="https://github.com/user-attachments/assets/dd156b35-6ab5-405b-8bdf-ef0d42f859cc" />
 "It's just not supposed to be this easy" - Senior Programmer at an Undisclosed Location.
+The 'secret sauce' is that this is powered by JuniperBlue. My very latest insightful creation !
